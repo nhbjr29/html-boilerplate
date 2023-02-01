@@ -1,0 +1,4 @@
+Host github.com
+  HostName github.com
+  Port nhbjr29/html-boilerplate.git
+  User git
